@@ -11,13 +11,20 @@ INSTALLATION INSTRUCTIONS:
 
 * 2 Extract the .zip file using a self-extractor such as WinZip.com. Once extracted you will have the following files and folder present:
 
-__LINUX  
+__LINUX
+  
 __MACOSX
+
 __SQL-Database
+
 __UNIX
+
 __WINDOWS
+
 Developer.contact
+
 GPL-License_v3.txt
+
 Install-Help.txt
 
 (The Linux, Macosx, Unix, and Windows folder are all the same software. However have been bundled specifically for each different serving operating system.)
