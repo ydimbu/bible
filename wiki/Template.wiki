@@ -13,14 +13,15 @@ To change the header, meta tags, site keywords:
    2. Edit the file header.inc.php
    3. Edit the following lines:
 
-    <TITLE><?php echo $title?> @BookintheBible</TITLE>
+<code>
+      <TITLE><?php echo $title?> @BookintheBible</TITLE>
       <meta name="author" content="Jason Jersey / Qorporate LLC">
       <meta name="copyright" content="2010 Qorporate LLC">
       <meta name="email" content="op@qorporate.com">
       <meta name="Rating" content="General">
       <meta name="Distribution" content="Global">
       <meta name="Robots" content="INDEX,FOLLOW">
-
+</code>
  
 
 To change the footer, includes bottom links:
