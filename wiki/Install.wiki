@@ -33,8 +33,6 @@ $dbPassword="XXXXXXXXXXX";
 
 * 6 Upload all files that are inside the /upload/ folder to your domain in binary mode. ( I use Filezilla, WS FTP, or Cute FTP). In most cases you will probably want to upload the files to the root of your domain such as /home/www/example.com/.
 
-* 7 That's it! Please report any bugs to me direct to inquires@bookinthebible.com
-
 = THANK YOU =
 
 For the latest updates please visit: http://bookinthebible.com/bible-books-software/
